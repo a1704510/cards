@@ -3,9 +3,9 @@
 function connect_db() {
  
   $servername = "localhost";   
-  $username = "cards";  
-  $password = "password";  
-  $dbname = "cards"; 
+  $username = "a1704510";  
+  $password = "poXIyX35f";  
+  $dbname = "a1704510"; 
  
   // Create connection 
   $conn = new mysqli($servername, $username, $password, $dbname);  
